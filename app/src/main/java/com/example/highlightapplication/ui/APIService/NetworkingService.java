@@ -40,7 +40,8 @@ public static String GoldAPI_ = " https://metals-api.com/api/latest?access_key=s
 
 
     //ConvertCurrency API
-    public static String ConvertCurrencyAPI = "https://metals-api.com/api/latest?access_key=s25ms0f7hkbkguq27ovysqhoz5qvhmw3l58wiat5g3kryhk9kwp8254d4k6m&base=CAD&symbols=INR";
+    public static String ConvertCurrencyAPI = "https://metals-api.com/api/latest?access_key=s25ms0f7hkbkguq27ovysqhoz5qvhmw3l58wiat5g3kryhk9kwp8254d4k6m&base=CAD";
+    public static String ConvertCurrencysymbols = "&symbols=INR";
 
 
     public static String WorldtimezoneAPI="http://worldtimeapi.org/api/timezone/";
